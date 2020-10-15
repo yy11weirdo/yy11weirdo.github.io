@@ -21,3 +21,8 @@ Hello MarkDown!
 有点意思，下面这张gif可以形容我的心情：
 
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
+
+
+git提交：git add,git commit,git push
+
+git pull：抓取远程仓库的内容
